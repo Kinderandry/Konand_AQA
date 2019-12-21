@@ -12,7 +12,5 @@ public class StringReverse {
         }
         String res = Arrays.toString(init);
         System.out.println(res);
-//        String join = res.join(" ");
-//        System.out.println(join);
     }
 }
