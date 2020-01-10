@@ -1,7 +1,8 @@
 package Day2212;
 
 public class SuperGirl extends Girl {
-    String superPower;
+
+    private String superPower;
 
     public SuperGirl(String name, int age, String superPower) {
         super(name, age);
