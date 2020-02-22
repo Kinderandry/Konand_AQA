@@ -1,6 +1,6 @@
-package Day1512_OOP;
+package Day191215_OOP;
 
-public class Girl {
+class Girl {
     String name;
     int age;
 

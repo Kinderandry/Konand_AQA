@@ -1,4 +1,4 @@
-package Day2212;
+package Day191222;
 
 public class Girl {
     final private String name;

@@ -1,4 +1,4 @@
-package Day2212;
+package Day191222;
 
 public class Main2 {
     public static void main(String[] args) throws CloneNotSupportedException {
